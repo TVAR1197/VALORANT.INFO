@@ -1,0 +1,134 @@
+main {
+    background: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612214158_186-p-fioletovii-fon-dlya-obrabotki-242.jpg);
+    padding-top: 10px;
+}
+
+
+header {
+    background: url(https://i.ytimg.com/vi/YGZf7QY0v9w/maxresdefault.jpg);
+    height: 100px;
+    border: 5px solid slategrey;
+}
+
+header img {
+    width: 50px;
+    height: 50px;
+    margin:10px;
+}
+
+header a {
+    border: 2px solid black;
+    border-radius:40% ;
+    color: black;
+    padding: 5px;
+    background-color: lightblue;
+    font-size: 20px;
+    text-decoration:none;
+    margin-left:60px ;
+    margin-right:60px ;
+    font-family: sans-serif;
+}
+
+header a:hover {
+    background-color:black ;
+    color: lightblue;
+    border:2px solid lightblue ;
+}
+
+footer {
+    background: url(https://i.ytimg.com/vi/YGZf7QY0v9w/maxresdefault.jpg);
+    height: 100px;
+    border: 5px solid slategrey;
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+footer img {
+    height:70px ;
+    width: 90px ;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    padding: 5px ;
+    color: white;
+
+}
+
+h2 {
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    font-size: 30px;
+}
+
+main P {
+    color: white;
+    font-size:20px ;
+    border: 3px solid black;
+    background-color: #5700F7;
+    border-radius: 20%;
+    padding: 30px;
+}
+
+Main img {
+    height:500px ;
+    width: 800px;
+    margin-left:40px ;
+    border: 5px solid #31008d;
+    position: relative;
+}
+
+ul {
+    color: white;
+    background-color:#5700F7 ;
+    border: 5px solid black;
+    width: 200px;
+    border-radius: 10%;
+    font-family: sans-serif;
+}
+
+ul a {
+    color: white;
+    text-decoration: none;
+}
+
+ul a:hover {
+    font-size: 20px;
+}
+
+div img {
+    width: 700px;
+    height: 400px;
+    float: left;
+}
+
+table {
+    background-color: rgb(59, 24, 122);
+    height: 30px;
+    width: 700px;
+    border: 3px solid FireBrick;
+    color: white;
+    text-align: center;
+    border-collapse:collapse;
+}
+
+td {
+    border: 5px solid black;
+}
+
+tr:first-child {
+    background-color: #5700F7;
+    color: #DFDFE9;
+}
+
+td:first-child{
+    background-color: #5700F7;
+    color: #DFDFE9;
+}
+
+.Guns {
+    text-align: center;
+}
