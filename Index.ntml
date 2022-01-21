@@ -1,0 +1,203 @@
+<html>
+  <head>
+    <title>VALORANT_INFO</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <img src="https://thumbs.dreamstime.com/b/valorant-%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA-%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-%D0%B8%D0%B3%D1%80%D1%8B-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80-eps-%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D1%81%D0%B5%D1%82%D1%8C-193671543.jpg">
+
+    <a href="#GP">GamePlay and Agents </a>
+    <a href="#Ab">Abilities </a>
+    <a href="#Guns">Guns </a>
+    </header>
+    <main>
+      <h1>VALORANT</h1>
+      <img src="https://i.ytimg.com/vi/F1CwlT5oyek/maxresdefault.jpg">
+      <h2 id="GP">GamePlay </h2>
+      <p>VALORANT это командный шутер от первого лица. В бою сражаются 2-ве команды 5 VS 5. Всего надо выйграть 13+ раундов для победы. Что бы выйграть раунд нужно в зависимости от команды или поставить, или обезвредить SPIKE (бомба).Данная игра является смесью таких игр как Overvatch и CS:GO<br/>
+      В начале игры вы должны выбрать персонажа. Всего их 19</p>
+      <ul type="circle">
+        <h4>Agents </h4>
+        <li><a href="">Brimstone </a>  </li>
+        <li><a href="">Viper </a>  </li>
+        <li><a href="">Sage </a> </li>
+        <li><a href="">Omen</a>  </li>
+        <li><a href="">Chamber </a> </li>
+        <li><a href="">Killjoy </a> </li>
+        <li><a href="">Cypher</a>  </li>
+        <li><a href="">Sova </a> </li>
+        <li><a href="">Phoenix</a>  </li>
+        <li><a href="">Jett </a> </li>
+        <li><a href="">Reyna </a> </li>
+        <li><a href="">Raze </a> </li>
+        <li><a href="">Breach </a> </li>
+        <li><a href="">Skye </a> </li>
+        <li><a href="">Yoru </a> </li>
+        <li><a href="">Astra</a> </li>
+        <li><a href="">KAY/O </a> </li>
+        <li><a href="">Neon </a> </li>
+      </ul>
+
+      <h2 id="Ab">Abilities </h2>
+
+      <p>Каждый агент имеет 4 активируемые способности.Каждая способность имеет 1 или несколько зарядов. 1-на из них начальная. Даётся за в начале каждого раунда и после иcпользования перезаряжается через время или после исполнения 2-ух убийств.<br/>
+      2-ве способности покупаютсяя за деньги каждый раунд. Если не использовать способность  то она сохраняется на следующий раунд.<br/>
+      4-ая способность набирается по ходу игры и как обычно является самой сильной. Заряжать её можно благодаря:<br/><br/>
+      -Сферам разброшеных по картам<br/>
+      -Убийствам противников<br/>
+      -Обезвреживанию SPIKE<br/>
+      -Смерть</p>
+
+      <h2 id="Guns"> Guns</h2>
+
+      <p class="Guns"> В VALORANT есть всего 18 оружий включая нож. Все они имеют разные характеристикки.</p>
+
+      <table>
+        <tr>
+          <td>Оружия </td>
+          <td>Наличие прицела </td>
+          <td>Стоимость </td>
+          <td>Патроны </td>
+          <td>Патроны в обойме </td>
+        </tr>
+
+        <tr>
+          <td>Classiс </td>
+          <td>Нет </td>
+          <td>Бесплатно </td>
+          <td>48 </td>
+          <td>12 </td>
+        </tr>
+
+        <tr>
+          <td>Shorty </td>
+          <td>Нет </td>
+          <td>150 </td>
+          <td>12 </td>
+          <td>2 </td>
+        </tr>
+
+        <tr>
+          <td>Frenzy </td>
+          <td>Нет </td>
+          <td>450 </td>
+          <td>52 </td>
+          <td>13 </td>
+        </tr>
+
+        <tr>
+          <td>Sheriff </td>
+          <td>Нет </td>
+          <td>800 </td>
+          <td>30 </td>
+          <td>6 </td>
+        </tr>
+
+        <tr>
+          <td>Stinger </td>
+          <td>Есть </td>
+          <td>950 </td>
+          <td>80 </td>
+          <td>20 </td>
+        </tr>
+
+        <tr>
+          <td>Spectre </td>
+          <td>Есть </td>
+          <td>1600 </td>
+          <td>120 </td>
+          <td>30 </td>
+        </tr>
+
+        <tr>
+          <td>Bucky </td>
+          <td>Нет </td>
+          <td>850 </td>
+          <td>15 </td>
+          <td>5 </td>
+        </tr>
+
+        <tr>
+          <td>Judge </td>
+          <td>Нет </td>
+          <td>1850 </td>
+          <td>28 </td>
+          <td>7 </td>
+        </tr>
+
+        <tr>
+          <td>Bulldog </td>
+          <td>Есть </td>
+          <td>2050 </td>
+          <td>96 </td>
+          <td>24 </td>
+        </tr>
+
+        <tr>
+          <td>Guardian </td>
+          <td>Есть </td>
+          <td>2250 </td>
+          <td>48 </td>
+          <td>12 </td>
+        </tr>
+
+        <tr>
+          <td>Phantom </td>
+          <td>Есть </td>
+          <td>2900 </td>
+          <td>120 </td>
+          <td>30 </td>
+        </tr>
+
+        <tr>
+          <td>Vandal </td>
+          <td>Есть </td>
+          <td>2900 </td>
+          <td>100 </td>
+          <td>25 </td>
+        </tr>
+
+        <tr>
+          <td>Marshal </td>
+          <td>Есть </td>
+          <td>950 </td>
+          <td>20 </td>
+          <td>5 </td>
+        </tr>
+
+        <tr>
+          <td>Operator </td>
+          <td>Есть </td>
+          <td>4700 </td>
+          <td>15 </td>
+          <td>5 </td>
+        </tr>
+
+        <tr>
+          <td>Ares </td>
+          <td>Есть </td>
+          <td>1600 </td>
+          <td>150 </td>
+          <td>50 </td>
+        </tr>
+
+        <tr>
+          <td>Odin </td>
+          <td>Есть </td>
+          <td>3200 </td>
+          <td>300 </td>
+          <td>100 </td>
+        </tr>
+        
+      </table>
+      
+    </main>
+    <footer>
+      <a href="https://www.tiktok.com/@karkarich_pod_snusom"><img src="https://www.ridus.ru/images/2020/7/29/1127582/in_article_1fc3876713.png"></a>
+
+      <p>Почта: valorant_info.ru@mail.ru </p>
+
+    </footer>
+  </body>
+</html>
